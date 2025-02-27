@@ -4,12 +4,7 @@ spacy
 joblib
 gdown
 google-generativeai
-requests
 beautifulsoup4
+requests
+pydantic
 scikit-learn
-pandas
-seaborn
-matplotlib
-graphviz
-sentence-transformers
-imblearn
